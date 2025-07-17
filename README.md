@@ -21,7 +21,7 @@ A simple Java-based desktop application to **track personal expenses**, built us
 - **Language**: Java  
 - **UI**: Java Swing  
 - **Database**: MySQL  
-- **IDE**: ]VS Code  
+- **IDE**: VS Code  
 - **Version Control**: Git & GitHub
 
 ## 🚀 How to Run
