@@ -14,13 +14,7 @@ A simple Java-based desktop application to **track personal expenses**, built us
 - ✅ Clean and intuitive GUI built with Java Swing
 - ✅ MySQL database integration for storing and retrieving data
 
-## 📸 Screenshots
 
-| Add Expense | View Spending | Manage Categories |
-|-------------|----------------|-------------------|
-| ![Add Expense](screenshots/add_expense.png) | ![View Spending](screenshots/view_spending.png) | ![Add Category](screenshots/add_category.png) |
-
-> 📁 Store screenshots inside a `screenshots/` folder in the repo for proper linking.
 
 ## 🧱 Tech Stack
 
